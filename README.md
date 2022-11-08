@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vlad-Kovalev
+- 👋 Hi, I’m Vladislav Kovalev
 - 👀 I’m interested in front-end Web development
 - 🌱 I’m currently learning Java / Java Script
 - 💞️ I’m looking to collaborate on with [@Avir4m](https://github.com/Avir4m/)
