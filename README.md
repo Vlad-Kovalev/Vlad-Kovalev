@@ -1,7 +1,7 @@
 - Hi 👋, I'm Vladislav Kovalev</h1>
 - 🔭 I’m currently working on BookNook
 - 🌱 I’m currently learning **Java**
-- 📫 connect with me via mail **vlad.assembler@gmail.com**  or <a href="https://instagram.com/vlad___kovalev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vlad__kovalev" height="30" width="40" /></a>
+- 📫 connect with me via mail **vlad.assembler@gmail.com**  or <a href="https://instagram.com/vlad___kovalev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vladislav__kovalev" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
